@@ -1,4 +1,5 @@
 React Quiz App
+
 A dynamic and interactive quiz application built using React, based on Jonas Schmedtmann’s Ultimate React Course on Udemy. The app allows users to answer multiple-choice questions, tracks their score, and provides immediate feedback. It uses React best practices, including functional components, hooks (useState, useEffect), component composition, conditional rendering, and state management to deliver a seamless user experience.
 
 Features:
